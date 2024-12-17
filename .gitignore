@@ -3,5 +3,11 @@
 
 .packages
 .pub/
+.idea/
+.vscode/
 
 build/
+
+certificates/*.p12
+certificates/*.pem
+passes/*
